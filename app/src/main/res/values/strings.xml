@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PR2 Belova</string>
+    <string name="tittle"><b>Нижний Новгород</b></string>
+    <string name="btn">Погода</string>
+</resources>
